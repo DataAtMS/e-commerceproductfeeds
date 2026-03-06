@@ -56,7 +56,7 @@ export const articles: Article[] = [
     categorySlug: "product-feed-technology",
     metaDescription: "Learn product feed AI optimization strategies with specific schema requirements, field mapping techniques, and formatting standards that AI systems need for accurate data interpretation.",
     excerpt: "Master the technical requirements for structuring product feeds that AI models can properly interpret, from schema formatting to field mapping strategies.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=How%20to%20Structure%20Product%20Feeds%20for%20AI%20Model%20I&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/how-to-structure-product-feeds-for-ai-model-ingestion-1772803430057.png",
     altText: "Technical diagram showing product feed data flowing through AI processing pipeline with schema validation checkpoints and field mapping connections",
     datePublished: "2026-03-06",
     dateModified: "2026-03-06",
@@ -377,10 +377,10 @@ Building and maintaining AI-optimized feeds at scale demands robust tooling. [Ma
     categorySlug: "product-feed-technology",
     metaDescription: "Fix product feed validation errors before submission with this actionable checklist. Code examples and rules that reduce feed disapprovals by 80% or more.",
     excerpt: "Learn the validation rules that prevent feed rejection across Google, Meta, and Amazon. Includes code examples for automated pre-submission testing.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Product%20Feed%20Validation%20Rules%20That%20Prevent%20Ch&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/product-feed-validation-rules-that-prevent-channel-rejection-1772803444151.png",
     altText: "Dashboard showing product feed validation results with green checkmarks and red error flags next to product listings awaiting channel approval",
     datePublished: "2026-03-04",
-    dateModified: "2026-03-04",
+    dateModified: "2026-03-06",
     content: `# Product Feed Validation Rules That Prevent Channel Rejection
 
 You submit your product feed at 4 PM, expecting smooth approval before tomorrow's campaign launch. By morning, you find 2,347 products rejected. The error messages read like riddles. Your boss wants answers. Your ads cannot run.
@@ -708,10 +708,10 @@ Building and maintaining validation pipelines requires ongoing effort as channel
     categorySlug: "product-feed-technology",
     metaDescription: "Discover dynamic product feed benefits including real-time pricing updates, reduced inventory errors, and faster sync times. See latency benchmarks for high-volume catalogs.",
     excerpt: "Static file uploads create inventory gaps and pricing errors that cost sales. Learn how dynamic API-based feeds solve these problems with real-time synchronization.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Why%20Dynamic%20Product%20Feeds%20Outperform%20Static%20F&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/why-dynamic-product-feeds-outperform-static-file-uploads-1772803460903.png",
     altText: "Split screen comparison showing a static CSV file with outdated data next to a real-time API dashboard displaying live inventory and pricing updates",
     datePublished: "2026-03-02",
-    dateModified: "2026-03-02",
+    dateModified: "2026-03-06",
     content: `# Why Dynamic Product Feeds Outperform Static File Uploads
 
 You just sold a product that went out of stock three hours ago. The customer expects delivery, but your warehouse shows zero units. Now you face an uncomfortable choice: cancel the order and damage your reputation, or scramble to source inventory at a premium. This scenario plays out thousands of times daily across ecommerce operations still relying on static file uploads.
@@ -923,10 +923,10 @@ If your current feed management involves manual exports, scheduled uploads, or p
     categorySlug: "product-feed-technology",
     metaDescription: "Learn product attribute mapping strategies that translate unique product data into channel-specific taxonomies. Scale 10,000+ SKUs without manual duplication.",
     excerpt: "Discover how to map custom product attributes across multiple sales channels without duplicating effort. A complete framework for managing 10,000+ SKUs.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Mapping%20Custom%20Attributes%20Across%20Multiple%20Sal&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/mapping-custom-attributes-across-multiple-sales-channels-1772803469763.png",
     altText: "Diagram showing product attributes flowing from a central database to multiple sales channel icons like Amazon, Google, and Meta with mapping connections between them",
     datePublished: "2026-02-28",
-    dateModified: "2026-02-28",
+    dateModified: "2026-03-06",
     content: `# Mapping Custom Attributes Across Multiple Sales Channels
 
 You have spent months building detailed product data. Your team created custom fields for fabric composition, sustainability certifications, regional availability, and compatibility specifications. This information drives conversions on your direct-to-consumer site.
@@ -1255,10 +1255,10 @@ For organizations ready to implement sophisticated product attribute mapping at 
     categorySlug: "product-feed-technology",
     metaDescription: "Learn how to optimize large product feeds and reduce file sizes by 60-70% without losing data integrity. Technical guide for feeds over 100MB causing timeouts.",
     excerpt: "Struggling with product feeds over 100MB that timeout during uploads? This technical guide shows you proven compression techniques to shrink file sizes by 60-70%.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Product%20Feed%20Compression%20Techniques%20for%20Large&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/product-feed-compression-techniques-for-large-catalogs-1772803481621.png",
     altText: "Dashboard showing product feed file size reduction from 150MB to 45MB with compression metrics and data integrity indicators",
     datePublished: "2026-02-26",
-    dateModified: "2026-02-26",
+    dateModified: "2026-03-06",
     content: `# Product Feed Compression Techniques for Large Catalogs
 
 Your product feed upload failed again. The progress bar crawled to 73% before the connection dropped, and now you're staring at the same timeout error you've seen a dozen times this week. With a catalog of 200,000 SKUs generating a 180MB feed file, you've hit the wall that every growing ecommerce brand eventually faces.
@@ -1541,10 +1541,10 @@ For brands ready to move beyond manual feed compression, [Marpipe](https://marpi
     categorySlug: "ai-visibility",
     metaDescription: "Learn AI shopping assistant optimization through reverse-engineered analysis of how ChatGPT, Perplexity, and Google AI extract product data from feeds.",
     excerpt: "Discover how AI shopping assistants actually read and prioritize your product data, with specific formatting tactics based on observed behavior patterns.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=How%20AI%20Shopping%20Assistants%20Parse%20Product%20Info&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/how-ai-shopping-assistants-parse-product-information-1772803488238.png",
     altText: "Diagram showing AI shopping assistant parsing product feed data with highlighted extraction points and priority indicators",
     datePublished: "2026-02-23",
-    dateModified: "2026-02-23",
+    dateModified: "2026-03-06",
     content: `# How AI Shopping Assistants Parse Product Information
 
 You spent months perfecting your product descriptions. Your photography looks stunning. Your prices beat the competition. Yet when someone asks ChatGPT for product recommendations in your category, your brand never appears.
@@ -1849,10 +1849,10 @@ Managing this complexity manually leads to the inconsistencies that hurt AI pars
     categorySlug: "ai-visibility",
     metaDescription: "Data from 500+ ecommerce brands reveals which AI product recommendation factors drive visibility. Learn how price, reviews, and availability affect AI suggestions.",
     excerpt: "Our analysis of 500+ ecommerce brands reveals the specific product attributes that correlate with AI recommendation frequency. Learn what actually drives AI visibility.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=What%20Makes%20Products%20Discoverable%20in%20AI%20Recomm&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/what-makes-products-discoverable-in-ai-recommendations-1772803496741.png",
     altText: "Data visualization showing product attributes like price positioning, review scores, and stock status influencing AI recommendation algorithms",
     datePublished: "2026-02-21",
-    dateModified: "2026-02-21",
+    dateModified: "2026-03-06",
     content: `# What Makes Products Discoverable in AI Recommendations
 
 You optimized your product pages for Google. You ran the paid ads. You built the email sequences. And now a customer asks ChatGPT for a recommendation, and your product never comes up.
@@ -2048,10 +2048,10 @@ For brands ready to take their feed management to the next level, [Marpipe](http
     categorySlug: "ai-visibility",
     metaDescription: "Learn which structured data AI search engines need to surface your products. See A/B test results showing markup that generates 3x more AI citations.",
     excerpt: "Discover the exact schema.org implementations that increase product visibility in AI search results, backed by real A/B test data.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Structured%20Data%20Requirements%20for%20AI%20Search%20En&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/structured-data-requirements-for-ai-search-engines-1772803504490.png",
     altText: "Developer reviewing structured data markup code on a computer screen with product schema highlighted and AI search engine results visible",
     datePublished: "2026-02-19",
-    dateModified: "2026-02-19",
+    dateModified: "2026-03-06",
     content: `# Structured Data Requirements for AI Search Engines
 
 You spent months perfecting your product descriptions. Your images look stunning. Customer reviews keep rolling in with five stars. Yet when someone asks ChatGPT or Perplexity for product recommendations in your category, your brand never appears.
@@ -2402,10 +2402,10 @@ For brands managing large product catalogs, maintaining schema quality at scale 
     categorySlug: "ai-visibility",
     metaDescription: "Learn how to track AI product mentions across ChatGPT, Perplexity, and other platforms. Discover tools, APIs, and monitoring systems that detect brand visibility.",
     excerpt: "Your products appear in AI responses more than you realize. Learn systematic methods to track AI product mentions and measure your visibility across language models.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Track%20AI%20Product%20Mentions%20Complete%20Monitorin&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/track-ai-product-mentions-complete-monitoring-guide-1772803513853.png",
     altText: "Dashboard showing AI product mention tracking across multiple platforms with brand visibility metrics and trend charts",
     datePublished: "2026-02-17",
-    dateModified: "2026-02-17",
+    dateModified: "2026-03-06",
     content: `# Track AI Product Mentions: Complete Monitoring Guide
 
 You spent years optimizing for Google. You built backlinks, perfected meta descriptions, and watched your rankings climb. Then ChatGPT launched, and suddenly millions of people started asking AI for product recommendations instead of typing queries into search boxes.
@@ -2651,10 +2651,10 @@ For ecommerce brands looking to improve both AI visibility and traditional chann
     categorySlug: "ai-visibility",
     metaDescription: "AI friendly product descriptions with specifications and quantified features get cited 4x more often than marketing copy. Learn the linguistic patterns that work.",
     excerpt: "Specification-heavy descriptions with quantified features get cited 4x more often in AI responses. Learn the linguistic patterns AI models favor.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Why%20AI%20Models%20Favor%20Certain%20Product%20Descripti&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/why-ai-models-favor-certain-product-description-patterns-1772803520271.png",
     altText: "Split screen comparison showing a marketing-focused product description versus a specification-heavy description with AI citation metrics displayed",
     datePublished: "2026-02-15",
-    dateModified: "2026-02-15",
+    dateModified: "2026-03-06",
     content: `# Why AI Models Favor Certain Product Description Patterns
 
 You spent hours crafting the perfect product description. The copy sings. The benefits shine. Your brand voice radiates through every carefully chosen word.
@@ -2861,10 +2861,10 @@ If you're managing product feeds across multiple channels and struggling to main
     categorySlug: "product-feed-tools",
     metaDescription: "Learn how Marpipe enables automated product ad testing at scale. Step-by-step guide with case study showing 43% ROAS improvement through multivariate testing.",
     excerpt: "Discover how Marpipe's feed integration powers multivariate ad testing at scale, with real results showing 43% ROAS improvement through automated creative optimization.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=How%20Marpipe%20Automates%20Creative%20Testing%20for%20Pr&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/how-marpipe-automates-creative-testing-for-product-ads-1772803532424.png",
     altText: "Dashboard showing multiple product ad creative variations being tested simultaneously with performance metrics and ROAS data",
     datePublished: "2026-02-12",
-    dateModified: "2026-02-12",
+    dateModified: "2026-03-06",
     content: `# How Marpipe Automates Creative Testing for Product Ads
 
 You just launched 50 new products. Now you need to figure out which images, headlines, and descriptions actually convert. The old way meant manually creating dozens of ad variations, waiting weeks for statistical significance, and burning through budget while you guessed your way to better performance.
@@ -3158,10 +3158,10 @@ If you are ready to transform your approach to product advertising, visit [Marpi
     categorySlug: "product-feed-tools",
     metaDescription: "Compare product feed management software for brands earning $5-50M. Detailed analysis of pricing tiers, channel coverage, and API flexibility for mid-market needs.",
     excerpt: "A detailed comparison of product feed management software for mid-market brands, examining pricing structures, channel support, and technical capabilities.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Feed%20Management%20Software%20Comparison%20for%20MidM&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/feed-management-software-comparison-for-mid-market-brands-1772803539983.png",
     altText: "Dashboard comparison showing multiple product feed management software interfaces with pricing tiers and channel integration options displayed side by side",
     datePublished: "2026-02-10",
-    dateModified: "2026-02-10",
+    dateModified: "2026-03-06",
     content: `# Feed Management Software Comparison for Mid-Market Brands
 
 You have outgrown your spreadsheet-based feed workflow. Manual exports crash when your catalog hits 10,000 SKUs. Google Merchant Center rejections pile up faster than your team can fix them. Meanwhile, your competitors seem to launch on new channels in days while you spend weeks wrangling product data.
@@ -3426,10 +3426,10 @@ Selecting the right product feed management software sets the foundation for eff
     categorySlug: "product-feed-tools",
     metaDescription: "Master Google Merchant Center optimization with advanced supplemental feeds, custom labels, and automatic item updates. Configuration guide for experienced merchants.",
     excerpt: "Go beyond basic feed setup with advanced GMC workflows. Learn supplemental feed strategies, custom label frameworks, and automatic item updates most merchants overlook.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Building%20Product%20Feed%20Workflows%20in%20Google%20Mer&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/building-product-feed-workflows-in-google-merchant-center-1772803547594.png",
     altText: "Google Merchant Center dashboard showing product feed workflow configuration with supplemental feeds and custom labels panels",
     datePublished: "2026-02-08",
-    dateModified: "2026-02-08",
+    dateModified: "2026-03-06",
     content: `# Building Product Feed Workflows in Google Merchant Center
 
 You have submitted product feeds to Google Merchant Center for years. Your products show up in Shopping results. Campaigns run. Revenue flows. So why does it feel like you are leaving money on the table?
@@ -3653,10 +3653,10 @@ For merchants managing product feeds across Google and multiple other channels s
     categorySlug: "product-feed-tools",
     metaDescription: "Learn when custom product feed development makes sense for your business. Get specific thresholds for catalog size, margins, and update frequency to guide your decision.",
     excerpt: "Discover the exact technical and business thresholds that determine whether custom product feed development or buying tools delivers better ROI for your ecommerce operation.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=When%20to%20Build%20Custom%20Feed%20Solutions%20vs%20Buy%20To&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/when-to-build-custom-feed-solutions-vs-buy-tools-1772803557325.png",
     altText: "Split screen comparison showing developer coding custom feed solution on left and feed management dashboard interface on right with ROI calculations visible",
     datePublished: "2026-02-06",
-    dateModified: "2026-02-06",
+    dateModified: "2026-03-06",
     content: `# When to Build Custom Feed Solutions vs Buy Tools
 
 You have spent the last three months wrestling with your product feed management. Your team patches together spreadsheets, runs manual updates at 2 AM, and still watches products get rejected from Google Shopping every week. The obvious question emerges: should you build something custom or just buy a tool?
@@ -3895,10 +3895,10 @@ If you are ready to improve your product feed management without the complexity 
     categorySlug: "product-feed-tools",
     metaDescription: "Learn proven PIM product feed integration patterns that sync product data across channels. Solve data consistency issues in enterprise ecommerce environments.",
     excerpt: "Master integration architecture patterns for connecting PIM systems to feed distribution tools. Solve data consistency challenges across enterprise sales channels.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Connecting%20PIM%20Systems%20to%20MultiChannel%20Feed%20&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/connecting-pim-systems-to-multi-channel-feed-distribution-1772803573204.png",
     altText: "Diagram showing PIM system connected to multiple product feed channels with data flow arrows and synchronization indicators",
     datePublished: "2026-02-04",
-    dateModified: "2026-02-04",
+    dateModified: "2026-03-06",
     content: `# Connecting PIM Systems to Multi-Channel Feed Distribution
 
 Your product data lives in a PIM system. Your customers browse Google Shopping, Amazon, Meta catalogs, TikTok Shop, and a dozen other channels. And somewhere in between, chaos erupts.
@@ -4166,10 +4166,10 @@ For organizations ready to streamline their product feed management across chann
     categorySlug: "ecommerce-technology",
     metaDescription: "Learn real-time inventory synchronization strategies that prevent overselling across channels. Covers webhooks, polling methods, and API rate limit management.",
     excerpt: "Master inventory synchronization across sales channels with webhook implementations, smart polling strategies, and platform-specific API approaches that prevent costly oversells.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=RealTime%20Inventory%20Sync%20Strategies%20for%20Multi&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/real-time-inventory-sync-strategies-for-multi-channel-seller-1772803592682.png",
     altText: "Dashboard showing synchronized inventory levels across multiple ecommerce sales channels with real-time update indicators",
     datePublished: "2026-02-01",
-    dateModified: "2026-02-01",
+    dateModified: "2026-03-06",
     content: `# Real-Time Inventory Sync Strategies for Multi-Channel Sellers
 
 You just sold the same product twice. Once on Amazon, once on Shopify, within the same 30-second window. Now you have an angry customer, a canceled order, and a seller account metric heading in the wrong direction.
@@ -4421,10 +4421,10 @@ For sellers managing complex product catalogs across multiple channels, speciali
     categorySlug: "ecommerce-technology",
     metaDescription: "Production-tested ecommerce API rate limits for Shopify, BigCommerce, WooCommerce, and Magento. Learn actual throttling behaviors and optimal request patterns.",
     excerpt: "A complete reference guide documenting real-world ecommerce API rate limits, throttling behaviors, and request optimization strategies tested in production environments.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=API%20Rate%20Limits%20Across%20Major%20Ecommerce%20Platfo&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/api-rate-limits-across-major-ecommerce-platforms-1772803606994.png",
     altText: "Technical dashboard displaying API rate limit metrics and request queues across multiple ecommerce platform integrations",
     datePublished: "2026-01-30",
-    dateModified: "2026-01-30",
+    dateModified: "2026-03-06",
     content: `# API Rate Limits Across Major Ecommerce Platforms
 
 Your product sync failed at 3 AM. Again. The error log shows a cryptic 429 response, and now 2,000 products are stuck in limbo while your morning sale goes live in four hours. If this scenario sounds familiar, you understand why mastering ecommerce API rate limits matters more than most technical documentation suggests.
@@ -4688,10 +4688,10 @@ For brands managing complex product catalogs across multiple channels, tools tha
     categorySlug: "ecommerce-technology",
     metaDescription: "Learn how headless commerce product feeds enable 70% faster delivery through decoupled architecture and CDN optimization. Infrastructure patterns that work.",
     excerpt: "Decoupled frontends transform product feed generation and distribution. Learn the infrastructure patterns that reduce feed delivery latency by 70%.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Headless%20Commerce%20Architecture%20for%20Product%20Fe&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/headless-commerce-architecture-for-product-feed-performance-1772803622912.png",
     altText: "Diagram showing headless commerce architecture with decoupled frontend, API layer, and product feed distribution through CDN edge nodes",
     datePublished: "2026-01-28",
-    dateModified: "2026-01-28",
+    dateModified: "2026-03-06",
     content: `# Headless Commerce Architecture for Product Feed Performance
 
 Your product feeds are choking on their own infrastructure. Every time inventory changes, your monolithic platform rebuilds the entire catalog, customers see stale prices on Google Shopping, and your engineering team spends weekends troubleshooting why the Facebook feed failed to sync. Meanwhile, your competitors running headless commerce architectures push feed updates in minutes instead of hours.
@@ -4935,10 +4935,10 @@ For teams ready to modernize their feed infrastructure, [Marpipe](https://marpip
     categorySlug: "ecommerce-technology",
     metaDescription: "Learn product variant database optimization strategies that handle 100K+ SKUs without query degradation. Real schema designs and caching tactics from high-volume DTC brands.",
     excerpt: "Database architectures that handle massive product catalogs without choking on variant queries. Proven schemas and caching strategies from brands managing 100K+ SKUs.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Product%20Variant%20Management%20Systems%20That%20Scale&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/product-variant-management-systems-that-scale-past-100k-skus-1772803631533.png",
     altText: "Database architecture diagram showing product variant relationships with multiple attribute tables connected to a central product catalog",
     datePublished: "2026-01-26",
-    dateModified: "2026-01-26",
+    dateModified: "2026-03-06",
     content: `# Product Variant Management Systems That Scale Past 100K SKUs
 
 Your product catalog just hit 50,000 SKUs. The variant picker on your product pages loads in 200 milliseconds. Life is good.
@@ -5126,10 +5126,10 @@ Invest in getting your variant database right, and the downstream systems that d
     categorySlug: "ecommerce-technology",
     metaDescription: "Learn product image CDN optimization with specific Cloudflare, Fastly, and CloudFront settings that speed up feed delivery and prevent channel rejections.",
     excerpt: "Configure your CDN to deliver product images that load fast and meet channel requirements. Specific settings for Cloudflare, Fastly, and CloudFront included.",
-    thumbnail: "https://placehold.co/1200x630/00aaff/ffffff?text=Image%20CDN%20Configuration%20for%20Product%20Feed%20Perf&font=montserrat",
+    thumbnail: "https://d2xsxph8kpxj0f.cloudfront.net/310519663404057351/dp2m2KZzpEAJHK3xhXkoSn/thumbnails/image-cdn-configuration-for-product-feed-performance-1772803646292.png",
     altText: "Dashboard showing CDN configuration settings for product image optimization with graphs displaying load times and format conversion rules",
     datePublished: "2026-01-23",
-    dateModified: "2026-01-23",
+    dateModified: "2026-03-06",
     content: `# Image CDN Configuration for Product Feed Performance
 
 Your product images look perfect on your website. Then you submit them to Google Shopping, and suddenly you're staring at a rejection notice. The image took too long to load. The format wasn't supported. The file was too large.
