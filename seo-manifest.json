@@ -1,0 +1,234 @@
+{
+  "siteTitle": "Product Feed Research: The future of AI Visibility",
+  "siteDescription": "Product Feeds are the main piece of the ecommerce technology stack that communicate with LLMs about what your product offers",
+  "siteUrl": "https://e-commerceproductfeeds.com",
+  "generatedAt": "2026-03-06T12:45:19.669Z",
+  "articles": [
+    {
+      "slug": "structure-product-feeds-ai",
+      "title": "How to Structure Product Feeds for AI Model Ingestion",
+      "metaDescription": "Learn product feed AI optimization strategies with specific schema requirements, field mapping techniques, and formatting standards that AI systems need for accurate data interpretation.",
+      "categorySlug": "product-feed-technology",
+      "categoryLabel": "Product Feed Technology",
+      "datePublished": "2026-03-06",
+      "dateModified": "2026-03-06",
+      "url": "https://e-commerceproductfeeds.com/articles/structure-product-feeds-ai"
+    },
+    {
+      "slug": "product-feed-validation-rules",
+      "title": "Product Feed Validation Rules That Prevent Channel Rejection",
+      "metaDescription": "Fix product feed validation errors before submission with this actionable checklist. Code examples and rules that reduce feed disapprovals by 80% or more.",
+      "categorySlug": "product-feed-technology",
+      "categoryLabel": "Product Feed Technology",
+      "datePublished": "2026-03-04",
+      "dateModified": "2026-03-04",
+      "url": "https://e-commerceproductfeeds.com/articles/product-feed-validation-rules"
+    },
+    {
+      "slug": "dynamic-product-feeds-outperform",
+      "title": "Why Dynamic Product Feeds Outperform Static File Uploads",
+      "metaDescription": "Discover dynamic product feed benefits including real-time pricing updates, reduced inventory errors, and faster sync times. See latency benchmarks for high-volume catalogs.",
+      "categorySlug": "product-feed-technology",
+      "categoryLabel": "Product Feed Technology",
+      "datePublished": "2026-03-02",
+      "dateModified": "2026-03-02",
+      "url": "https://e-commerceproductfeeds.com/articles/dynamic-product-feeds-outperform"
+    },
+    {
+      "slug": "mapping-custom-attributes-across",
+      "title": "Mapping Custom Attributes Across Multiple Sales Channels",
+      "metaDescription": "Learn product attribute mapping strategies that translate unique product data into channel-specific taxonomies. Scale 10,000+ SKUs without manual duplication.",
+      "categorySlug": "product-feed-technology",
+      "categoryLabel": "Product Feed Technology",
+      "datePublished": "2026-02-28",
+      "dateModified": "2026-02-28",
+      "url": "https://e-commerceproductfeeds.com/articles/mapping-custom-attributes-across"
+    },
+    {
+      "slug": "product-feed-compression-techniques",
+      "title": "Product Feed Compression Techniques for Large Catalogs",
+      "metaDescription": "Learn how to optimize large product feeds and reduce file sizes by 60-70% without losing data integrity. Technical guide for feeds over 100MB causing timeouts.",
+      "categorySlug": "product-feed-technology",
+      "categoryLabel": "Product Feed Technology",
+      "datePublished": "2026-02-26",
+      "dateModified": "2026-02-26",
+      "url": "https://e-commerceproductfeeds.com/articles/product-feed-compression-techniques"
+    },
+    {
+      "slug": "ai-shopping-assistants-parse",
+      "title": "How AI Shopping Assistants Parse Product Information",
+      "metaDescription": "Learn AI shopping assistant optimization through reverse-engineered analysis of how ChatGPT, Perplexity, and Google AI extract product data from feeds.",
+      "categorySlug": "ai-visibility",
+      "categoryLabel": "AI Visibility",
+      "datePublished": "2026-02-23",
+      "dateModified": "2026-02-23",
+      "url": "https://e-commerceproductfeeds.com/articles/ai-shopping-assistants-parse"
+    },
+    {
+      "slug": "makes-products-discoverable-ai",
+      "title": "What Makes Products Discoverable in AI Recommendations",
+      "metaDescription": "Data from 500+ ecommerce brands reveals which AI product recommendation factors drive visibility. Learn how price, reviews, and availability affect AI suggestions.",
+      "categorySlug": "ai-visibility",
+      "categoryLabel": "AI Visibility",
+      "datePublished": "2026-02-21",
+      "dateModified": "2026-02-21",
+      "url": "https://e-commerceproductfeeds.com/articles/makes-products-discoverable-ai"
+    },
+    {
+      "slug": "structured-data-requirements-ai",
+      "title": "Structured Data Requirements for AI Search Engines",
+      "metaDescription": "Learn which structured data AI search engines need to surface your products. See A/B test results showing markup that generates 3x more AI citations.",
+      "categorySlug": "ai-visibility",
+      "categoryLabel": "AI Visibility",
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19",
+      "url": "https://e-commerceproductfeeds.com/articles/structured-data-requirements-ai"
+    },
+    {
+      "slug": "track-ai-product-mentions",
+      "title": "Track AI Product Mentions: Complete Monitoring Guide",
+      "metaDescription": "Learn how to track AI product mentions across ChatGPT, Perplexity, and other platforms. Discover tools, APIs, and monitoring systems that detect brand visibility.",
+      "categorySlug": "ai-visibility",
+      "categoryLabel": "AI Visibility",
+      "datePublished": "2026-02-17",
+      "dateModified": "2026-02-17",
+      "url": "https://e-commerceproductfeeds.com/articles/track-ai-product-mentions"
+    },
+    {
+      "slug": "ai-models-favor-certain",
+      "title": "Why AI Models Favor Certain Product Description Patterns",
+      "metaDescription": "AI friendly product descriptions with specifications and quantified features get cited 4x more often than marketing copy. Learn the linguistic patterns that work.",
+      "categorySlug": "ai-visibility",
+      "categoryLabel": "AI Visibility",
+      "datePublished": "2026-02-15",
+      "dateModified": "2026-02-15",
+      "url": "https://e-commerceproductfeeds.com/articles/ai-models-favor-certain"
+    },
+    {
+      "slug": "marpipe-automates-creative-testing",
+      "title": "How Marpipe Automates Creative Testing for Product Ads",
+      "metaDescription": "Learn how Marpipe enables automated product ad testing at scale. Step-by-step guide with case study showing 43% ROAS improvement through multivariate testing.",
+      "categorySlug": "product-feed-tools",
+      "categoryLabel": "Product Feed Tools",
+      "datePublished": "2026-02-12",
+      "dateModified": "2026-02-12",
+      "url": "https://e-commerceproductfeeds.com/articles/marpipe-automates-creative-testing"
+    },
+    {
+      "slug": "feed-management-software-comparison",
+      "title": "Feed Management Software Comparison for Mid-Market Brands",
+      "metaDescription": "Compare product feed management software for brands earning $5-50M. Detailed analysis of pricing tiers, channel coverage, and API flexibility for mid-market needs.",
+      "categorySlug": "product-feed-tools",
+      "categoryLabel": "Product Feed Tools",
+      "datePublished": "2026-02-10",
+      "dateModified": "2026-02-10",
+      "url": "https://e-commerceproductfeeds.com/articles/feed-management-software-comparison"
+    },
+    {
+      "slug": "building-product-feed-workflows",
+      "title": "Building Product Feed Workflows in Google Merchant Center",
+      "metaDescription": "Master Google Merchant Center optimization with advanced supplemental feeds, custom labels, and automatic item updates. Configuration guide for experienced merchants.",
+      "categorySlug": "product-feed-tools",
+      "categoryLabel": "Product Feed Tools",
+      "datePublished": "2026-02-08",
+      "dateModified": "2026-02-08",
+      "url": "https://e-commerceproductfeeds.com/articles/building-product-feed-workflows"
+    },
+    {
+      "slug": "build-custom-feed-solutions",
+      "title": "When to Build Custom Feed Solutions vs Buy Tools",
+      "metaDescription": "Learn when custom product feed development makes sense for your business. Get specific thresholds for catalog size, margins, and update frequency to guide your decision.",
+      "categorySlug": "product-feed-tools",
+      "categoryLabel": "Product Feed Tools",
+      "datePublished": "2026-02-06",
+      "dateModified": "2026-02-06",
+      "url": "https://e-commerceproductfeeds.com/articles/build-custom-feed-solutions"
+    },
+    {
+      "slug": "connecting-pim-systems-multichannel",
+      "title": "Connecting PIM Systems to Multi-Channel Feed Distribution",
+      "metaDescription": "Learn proven PIM product feed integration patterns that sync product data across channels. Solve data consistency issues in enterprise ecommerce environments.",
+      "categorySlug": "product-feed-tools",
+      "categoryLabel": "Product Feed Tools",
+      "datePublished": "2026-02-04",
+      "dateModified": "2026-02-04",
+      "url": "https://e-commerceproductfeeds.com/articles/connecting-pim-systems-multichannel"
+    },
+    {
+      "slug": "realtime-inventory-sync-strategies",
+      "title": "Real-Time Inventory Sync Strategies for Multi-Channel Sellers",
+      "metaDescription": "Learn real-time inventory synchronization strategies that prevent overselling across channels. Covers webhooks, polling methods, and API rate limit management.",
+      "categorySlug": "ecommerce-technology",
+      "categoryLabel": "Ecommerce Technology",
+      "datePublished": "2026-02-01",
+      "dateModified": "2026-02-01",
+      "url": "https://e-commerceproductfeeds.com/articles/realtime-inventory-sync-strategies"
+    },
+    {
+      "slug": "api-rate-limits-across",
+      "title": "API Rate Limits Across Major Ecommerce Platforms",
+      "metaDescription": "Production-tested ecommerce API rate limits for Shopify, BigCommerce, WooCommerce, and Magento. Learn actual throttling behaviors and optimal request patterns.",
+      "categorySlug": "ecommerce-technology",
+      "categoryLabel": "Ecommerce Technology",
+      "datePublished": "2026-01-30",
+      "dateModified": "2026-01-30",
+      "url": "https://e-commerceproductfeeds.com/articles/api-rate-limits-across"
+    },
+    {
+      "slug": "headless-commerce-architecture-product",
+      "title": "Headless Commerce Architecture for Product Feed Performance",
+      "metaDescription": "Learn how headless commerce product feeds enable 70% faster delivery through decoupled architecture and CDN optimization. Infrastructure patterns that work.",
+      "categorySlug": "ecommerce-technology",
+      "categoryLabel": "Ecommerce Technology",
+      "datePublished": "2026-01-28",
+      "dateModified": "2026-01-28",
+      "url": "https://e-commerceproductfeeds.com/articles/headless-commerce-architecture-product"
+    },
+    {
+      "slug": "product-variant-management-systems",
+      "title": "Product Variant Management Systems That Scale Past 100K SKUs",
+      "metaDescription": "Learn product variant database optimization strategies that handle 100K+ SKUs without query degradation. Real schema designs and caching tactics from high-volume DTC brands.",
+      "categorySlug": "ecommerce-technology",
+      "categoryLabel": "Ecommerce Technology",
+      "datePublished": "2026-01-26",
+      "dateModified": "2026-01-26",
+      "url": "https://e-commerceproductfeeds.com/articles/product-variant-management-systems"
+    },
+    {
+      "slug": "image-cdn-configuration-product",
+      "title": "Image CDN Configuration for Product Feed Performance",
+      "metaDescription": "Learn product image CDN optimization with specific Cloudflare, Fastly, and CloudFront settings that speed up feed delivery and prevent channel rejections.",
+      "categorySlug": "ecommerce-technology",
+      "categoryLabel": "Ecommerce Technology",
+      "datePublished": "2026-01-23",
+      "dateModified": "2026-01-23",
+      "url": "https://e-commerceproductfeeds.com/articles/image-cdn-configuration-product"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "product-feed-technology",
+      "label": "Product feed technology",
+      "url": "https://e-commerceproductfeeds.com/product-feed-technology"
+    },
+    {
+      "slug": "ai-visibility",
+      "label": "ai visibility",
+      "url": "https://e-commerceproductfeeds.com/ai-visibility"
+    },
+    {
+      "slug": "product-feed-tools",
+      "label": "product feed tools",
+      "url": "https://e-commerceproductfeeds.com/product-feed-tools"
+    },
+    {
+      "slug": "ecommerce-technology",
+      "label": "ecommerce technology",
+      "url": "https://e-commerceproductfeeds.com/ecommerce-technology"
+    }
+  ],
+  "_instructions": [
+    "This file is a reference for all SEO metadata in the generated site.",
+    "To update SEO, edit the articles.ts file and regenerate."
+  ]
+}
